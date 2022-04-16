@@ -9,6 +9,7 @@ Tone Mapping Studio: https://github.com/cadik/TMS
 - Plugin: TMOParis11
 
 Article: https://people.csail.mit.edu/sparis/publi/2011/siggraph/
+
 Implemented operator: https://github.com/cadik/TMS/tree/master/TMOParis11
 
 #### Domain Transform for Edge-Aware Image and Video Processing
@@ -17,6 +18,7 @@ Implemented operator: https://github.com/cadik/TMS/tree/master/TMOParis11
 - Plugin: TMOGastal11
 
 Article: https://www.inf.ufrgs.br/~eslgastal/DomainTransform/
+
 Implemented operator: https://github.com/cadik/TMS/tree/master/TMOGastal11
 
 #### Adaptive Logarithmic Mapping For Displaying High Contrast Scenes
@@ -25,5 +27,6 @@ Implemented operator: https://github.com/cadik/TMS/tree/master/TMOGastal11
 - Plugin: TMODrago03
 
 Article: https://resources.mpi-inf.mpg.de/tmo/logmap/logmap.pdf
+
 Implemented operator: https://github.com/cadik/TMS/tree/master/TMODrago03
 
