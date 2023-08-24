@@ -27,6 +27,17 @@ Implemented operator: https://github.com/cadik/TMS/tree/master/TMOGastal11
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Globally Optimized Linear Windowed Tone Mapping
+- Authors: Qi Shan, Jiaya Jia, Michael S. Brown
+- Journal: IEEE Transactions on Visualization and Computer Graphics 2010
+- Plugin: TMOShan10
+
+Article: https://grail.cs.washington.edu/projects/sq_tonemapping/
+
+Implemented operator: https://github.com/cadik/TMS/tree/master/TMOShan10
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Adaptive Logarithmic Mapping For Displaying High Contrast Scenes
 - Authors: F. Drago, K. Myszkowski, T. Annen, N. Chiba
 - Conference: EUROGRAPHICS 2003
