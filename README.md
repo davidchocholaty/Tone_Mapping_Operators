@@ -47,3 +47,14 @@ Article: https://resources.mpi-inf.mpg.de/tmo/logmap/logmap.pdf
 
 Implemented operator: https://github.com/cadik/TMS/tree/master/TMODrago03
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Invertible Grayscale
+- Authors: Menghan Xia, Xueting Liu, Tien-Tsin Wong
+- Journal: ACM Transactions on Graphics (SIGGRAPH Asia 2018 issue), Vol. 37, No. 6, November 2018, pp. 246:1-246:10.
+- Plugin: TMOXia18
+
+Article: https://ttwong12.github.io/papers/invertgray/invertgray.pdf
+
+Implemented operator: https://github.com/cadik/TMS/tree/master/TMOXia18
+
